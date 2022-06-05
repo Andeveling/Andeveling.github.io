@@ -1,1 +1,0 @@
-alert("Web page under construction");
